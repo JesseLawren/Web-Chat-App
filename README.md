@@ -1,2 +1,2 @@
 # WebChatApp
-*Work in Progress* Web Chat App
+*Work in Progress* Practice
